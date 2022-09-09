@@ -12,7 +12,17 @@
 }
 
 
+/* Mouse Hover on Message Color */
 .mouse-mode.full-motion .message-2CShn3:hover:not(#a){
         background-color: var(--background-message-hover) !important;
 }
 
+
+/* Minimize Member List Size */
+.container-2o3qEW {width: 54px !important;}
+.container-2o3qEW:hover {width: 230px !important;}
+
+
+/* Minimize Channels Size */
+.sidebar-1tnWFu {width: 100px !important;}
+.sidebar-1tnWFu:hover {width: 237px !important;}
