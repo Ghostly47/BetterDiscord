@@ -1,0 +1,23 @@
+
+  /* Mouse Hover on Message Color */
+  .mouse-mode.full-motion .message-2CShn3:hover:not(#a){
+    background-color: var(--background-message-hover) !important;
+  }
+ /* mentioned message background */
+ .mentioned-Tre-dv{
+    transition: .5s ease;
+    background-color: var(--background-mentioned);
+  }
+  /* mentioned message background on hover */
+  .message-2CShn3.mentioned-Tre-dv.selected-2LX7Jy, .mouse-mode.full-motion .mentioned-Tre-dv:hover{
+    background-color: var(--background-mentioned);
+  }
+  /* mentioned message left border hover */
+  .mentioned-Tre-dv:before{
+    transition: .5s ease;
+    background-color: var(--background-mentioned-leftBar);
+  }
+  /* mentioned message left border */
+  .mentioned-Tre-dv:hover:before{
+    background-color: var(--background-mentioned-leftBar-hover);
+  }
