@@ -1,0 +1,18 @@
+/* People with Roles Background */
+.username-h_Y3Us[style*=color] {
+    background-color:rgba(80, 80, 80, 0.663);
+    border-radius: 5px;
+    padding: 0 5px 0 5px;
+}
+
+
+/* Make sure to keep bottom left normal */
+.container-ZMc96U .children-3xh0VB {
+    flex-grow: 0;
+}
+
+
+.mouse-mode.full-motion .message-2CShn3:hover:not(#a){
+        background-color: var(--background-message-hover) !important;
+}
+
