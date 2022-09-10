@@ -44,3 +44,7 @@
   .background-L8lGH6{--vcbg: var(--background-voiceChannel-userBg); /* Change this image to change the default image of people without vcbgs.*/
   }
   /*End VCBG Stuff*/
+
+
+  /* Remove Discord Name | Top Left */
+  .wordmarkWindows-2dq6rw>* {display: none;}
