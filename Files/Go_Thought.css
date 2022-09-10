@@ -7,7 +7,7 @@
     /*Discord name*/
 .theme-dark .titleBar-1it3bQ::after {
     content: "𝕯𝖎𝖘𝖈𝖔𝖗𝖉";
-    background: rgb(36, 38, 42);
+    background: transparent !important;
     color: rgb(24, 26, 29);
     padding-right: 36cm;
 }
