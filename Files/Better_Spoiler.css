@@ -1,0 +1,14 @@
+
+/* Better Spoiler */
+.spoilerText-27bIiA,
+.spoilerText-27bIiA.hidden-3B-Rum {
+  background-color: transparent !important;
+}
+
+.spoilerText-27bIiA.hidden-3B-Rum > .inlineContent-2YnoDy {
+  opacity: 1 !important;
+  filter: blur(3px);
+  pointer-events: unset;
+}
+
+
