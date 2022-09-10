@@ -1,0 +1,46 @@
+
+    /* Fix Padding in Mentions */
+.message-2CShn3.mentioned-Tre-dv{
+    padding: .125rem 0 .125rem 72px;
+}
+
+    /*Discord name*/
+.theme-dark .titleBar-1it3bQ::after {
+    content: "𝕯𝖎𝖘𝖈𝖔𝖗𝖉";
+    background: rgb(36, 38, 42);
+    color: rgb(24, 26, 29);
+    padding-right: 36cm;
+}
+
+
+
+  /* Inbox and Help in servers */
+  .toolbar-3_r2xA>.search-39IXmY~*{
+    display: none;
+  }
+
+
+
+
+  /* Auto-Complete Bar between Bot and Commands */
+  .autocomplete-3NRXG8>div>.rail-1BiMhk{
+    border-right: 1px solid var(--AutoComplete-botCommand-border);
+  }
+
+
+  /* Text Input Form */
+  .form-3gdLxP {
+    height: 70px;
+  }
+
+
+  /* Blur Tag Discriminator*/
+  .headerTagDiscriminatorNoNickname-dfcvHa {color: transparent;text-shadow: 0 0 var(--TagDiscriminator-blur) var(--TagDiscriminator-clr);}
+  .headerTagDiscriminatorNoNickname-dfcvHa:hover {color: var(--TagDiscriminator-hover)}
+
+
+  /*VCBG Stuff*/
+  .background-L8lGH6{background: var(--vcbg);background-size:contain;} /*Request your own image in my Discord if you want one.*/
+  .background-L8lGH6{--vcbg: var(--background-voiceChannel-userBg); /* Change this image to change the default image of people without vcbgs.*/
+  }
+  /*End VCBG Stuff*/
