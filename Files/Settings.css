@@ -1,0 +1,4 @@
+/* Put All of the BetterDiscord settings right under the USER SETTINGS category on the settings page. */
+.side-2ur1Qk>:where([class^=bd-],[class*=-tab],:where([class*=-tab],[class^=bd-])+.separator-2wx7h6,:nth-child(-n+9)) {
+  order: -1;
+}
