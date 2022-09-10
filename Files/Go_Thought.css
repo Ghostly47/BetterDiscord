@@ -4,13 +4,6 @@
     padding: .125rem 0 .125rem 72px;
 }
 
-    /*Discord name*/
-.theme-dark .titleBar-1it3bQ::after {
-    content: "𝕯𝖎𝖘𝖈𝖔𝖗𝖉";
-    background: transparent !important;
-    color: rgb(24, 26, 29);
-    padding-right: 36cm;
-}
 
 
 
